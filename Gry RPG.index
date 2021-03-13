@@ -1,0 +1,229 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Gry RPG</title>
+		
+		<style>
+		
+		body	{
+			margin: 0;
+			line-height: 1.8;
+			font-size: 20px;
+			font-family:  sans-serif;
+			background-color: rgb (237,237,237);
+			background-image: url('tlo2.jpg');
+  			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-attachment: fixed;
+			
+		}
+
+		.tlo1	{
+			background-image: url("tlo1.png");
+			height: 1000px;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		
+		
+		.header	{
+			margin-top: 15px;
+			margin-bottom: 15px;
+			text-align: center;
+			font-size: 50px;
+			font-family: fantasy;
+			border-top: 2px solid black;
+			border-bottom: 2px solid black;
+			
+		}
+		
+		.tekst1{
+			margin-left: 164.5px;
+			margin-right: 164.5px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+		
+		.header2	{
+			font-size: 30px;
+			font-family: 'Arial Narrow', Arial, sans-serif;
+			margin-bottom: 20px:
+		}
+		
+		
+		.pic	{
+			margin-left: 164.5px;
+		}
+		
+		.pic2	{
+			width: 70%;
+			height: 70%;
+		}
+
+		
+		.opis	{
+			margin-top: 10px;
+			font-size: 20px
+		}
+
+		.tabela	{
+			margin-top: 70px;
+		}
+
+		.stopka	{
+			margin-top: 80px;
+			background-image: url(tlo3.png);
+			background-position: center;
+			background-size: cover;
+			opacity: 0.8;
+			font-size: 30px;
+			font-weight: bold;
+			font-family: 'Arial Narrow', Arial, sans-serif;
+		}
+
+		.stopka1 {
+			padding-left: 150px
+		}
+
+		
+		</style>
+
+	</head>
+	
+	<body>
+	
+		<div class="tlo1"></div>
+		
+			<div class="header"> Czym są gry RPG? </div>
+			
+				<div class="tekst1"> <strong>Komputerowa gra fabularna </strong> – gatunek gier komputerowych, w którym gracz kontroluje bohatera (lub drużynę) poruszającego się po najczęściej fikcyjnym świecie.
+				Często gracz tworzy własną postać, określając jej cechy i wygląd zewnętrzny. W trakcie rozgrywki można pomagać postaciom niezależnym i zabijać przeciwników, dzięki czemu awansuje się na kolejne poziomy i zdobywa nowe umiejętności.
+				Komputerowa gra fabularna może rozgrywać się w różnych konwencjach, np. fantasy, science fiction czy steampunk.<br>
+				<br>Pierwsze komputerowe gry fabularne powstały w latach 70. XX wieku, inspirowane głównie tradycyjnymi grami fabularnymi. 
+				Wiele gier cRPG ma podobną terminologię, mechanikę i świat gry. Podgatunkami gier fabularnych są: fabularna gra akcji, hack and slash, jRPG, MMORPG, roguelike, MUD i SUD.
+				</div>
+	
+			<div class="header"> Dlaczego gry RPG są tak lubiane? </div>
+			
+				<div class="tekst1"> Rozwijanie swojej postaci lub całej drużyny, walka z hordami przeciwników, rozmowy z napotkanymi
+				osobami, setki misji i pobocznych zadań, złożona i fascynująca fabuła – <br> to właśnie esencja gier RPG.
+				Magia tego gatunku opiera się na mechanikach walki, jednak o klasie produkcji świadczy
+				ukazana w niej historia. Świat opowieści potrafi wciągnąć gracza na długie miesiące, przenosząc go
+				w samo centrum niesamowitych wydarzeń.<br>
+				
+				<br> Komputerowe gry fabularne zwykle wywodzą się z papierowych gier RPG.
+				Przykładowo polska gra „Cyberpunk 2077” ma swoje korzenie właśnie w książkowym
+				podręczniku. Kiedyś grano w nie przy pomocy jedynie kartki i ołówka, teraz zachwycają oszałamiającą
+				grafiką i porywającą historią.<br>
+				</div>
+				
+			<div class="header"> Najlepsze gry RPG dostępne na PC </div>
+			
+			<div class="tabela">
+				<table>
+					<thead>
+						<tr>
+							<th><div class="header2">Wiedźmin 3: Dziki Gon</div></th> <th><div class="header2">Divinity: Original Sin 2</div></th> 
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th><a href="Wiedźmin 3.html" target="_blank" ><img class="pic2" src="pic1.jpg"></a></th> <th><a href="Divinity Original Sin 2.html" target="_blank" ><img class="pic2" src="pic2.jpg"></a></th> 
+						</tr>
+						<tr>
+							<th><div class="opis">Data wydania: 2015 | Producent: CD Projekt Red | Sklep: <a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/" target="_blank"> Steam </a></div></th>
+							<th><div class="opis">Data wydania: 2017 | Producent: Larian Studios | Sklep: <a href="https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/" target="_blank"> Steam </a></div></th>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+
+			<div class="tabela">
+				<table>
+					<thead>
+						<tr>
+							<th><div class="header2">Disco Elysium</div></th> <th><div class="header2">Pillars of Eternity</div></th> 
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th><a href="Disco Elysium.html" target="_blank" ><img class="pic2" src="pic3.webp"></a></th> <th><a href="Pillars of Eternity.html" target="_blank" ><img class="pic2" src="pic4.jpg"></a></th> 
+						</tr>
+						<tr>
+							<th><div class="opis">Data wydania: 2019 | Producent: ZA/UM | Sklep: <a href="https://store.steampowered.com/app/632470/Disco_Elysium/" target="_blank"> Steam </a></div></th>
+							<th><div class="opis">Data wydania: 2015 | Producent: Obsidian Entertainment | Sklep: <a href="https://store.steampowered.com/app/291650/Pillars_of_Eternity/" target="_blank"> Steam </a></div></th>
+						</tr>
+					</tbody>
+				</table>
+			</div>		
+
+
+			<div class="tabela">
+				<table>
+					<thead>
+						<tr>
+							<th><div class="header2">Outward</div></th> <th><div class="header2">Yakuza: Like a Dragon</div></th> 
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th><a href="Outward.html" target="_blank" ><img class="pic2" src="pic5.webp"></a></th> <th><a href="Yakuza Like a Dragon.html" target="_blank" ><img class="pic2" src="pic6.webp"></a></th> 
+						</tr>
+						<tr>
+							<th><div class="opis">Data wydania: 2019 | Producent: Nine Dots Studio | Sklep: <a href="https://store.steampowered.com/app/794260/Outward/" target="_blank"> Steam </a></div></th>
+							<th><div class="opis">Data wydania: 2020 | Producent: Ryu ga Gotoku Studio | Sklep: <a href="https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/" target="_blank"> Steam </a></div></th>
+						</tr>
+					</tbody>
+				</table>
+			</div>		
+
+
+			<div class="tabela">
+				<table>
+					<thead>
+						<tr>
+							<th><div class="header2">Sunless Sea</div></th> <th><div class="header2">South Park: The Stick of Truth</div></th> 
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th><a href="SUNLESS SEA.html" target="_blank" ><img class="pic2" src="pic7.jpg"></a></th> <th><a href="South Park.html" target="_blank" ><img class="pic2" src="pic8.jpg"></a></th> 
+						</tr>
+						<tr>
+							<th><div class="opis">Data wydania: 2015 | Producent: Failbetter Games | Sklep: <a href="https://store.steampowered.com/app/304650/SUNLESS_SEA/" target="_blank"> Steam </a></div></th>
+							<th><div class="opis">Data wydania: 2014 | Producent: Obsidian Entertainment | Sklep: <a href="https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/" target="_blank"> Steam </a></div></th>
+						</tr>
+					</tbody>
+				</table>
+			</div>		
+
+
+			<div class="tabela">
+				<table>
+					<thead>
+						<tr>
+							<th><div class="header2">Kingdom Come: Deliverance</div></th> <th><div class="header2">Undertale</div></th> 
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th><a href="Kingdom Come Deliverance.html" target="_blank" ><img class="pic2" src="pic9.jpg"></a></th> <th><a href="Undertale.html" target="_blank" ><img class="pic2" src="pic10.png"></a></th> 
+						</tr>
+						<tr>
+							<th><div class="opis">Data wydania: 2018 | Producent: Warhorse Studios | Sklep: <a href="https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/" target="_blank"> Steam </a></div></th>
+							<th><div class="opis">Data wydania: 2015 | Producent: tobyfox | Sklep: <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank"> Steam </a></div></th>
+						</tr>
+					</tbody>
+				</table>
+			</div>	
+			
+		<div class="stopka stopka1">
+			Autor: Miłosz Ciecieląg
+		</div>	
+
+	</body>
+
+	</html>
